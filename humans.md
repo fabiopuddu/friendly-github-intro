@@ -15,7 +15,7 @@
 
 
 
-* Fabio Puddu - github: [github username](link-to-github-homepage) 
+* Fabio Puddu - github: [fabiopuddu](link-to-github-homepage) 
 * 
 
 ## Mozilla Science Lab Fellows
