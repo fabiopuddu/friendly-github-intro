@@ -11,20 +11,14 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
-*
-## Mozilla Science Lab Fellows
-
-
 
 
 
 
 * Fabio Puddu - github: [github username](link-to-github-homepage) 
+* 
 
-
-
-
-
+## Mozilla Science Lab Fellows
 
 
 The workshop was originally developed by:
